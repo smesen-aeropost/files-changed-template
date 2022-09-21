@@ -2,7 +2,7 @@
 #  Tittle: 
 
 ## Details
-### Description & motivation:
+### Product description:
 > < Description >  
 ### Firmware version: < Version > 
 ### ApplicationType: < docker/.net/outsystem/etc > 
